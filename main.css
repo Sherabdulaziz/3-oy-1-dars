@@ -1,0 +1,42 @@
+.container {
+  margin-top: 25vh;
+  background-color: #ffffff;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 1050px;
+  padding-right: 25px;
+  padding-left: 25px;
+}
+
+.btn {
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 12px;
+  border: 1px solid transparent;
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin-bottom: 20px;
+}
+.btn1 {
+  background-color: red;
+}
+.btn2 {
+  background-color: blue;
+}
+.btn3 {
+  background-color: green;
+}
+.btn1:active {
+  background-color: rgb(159, 44, 44);
+}
+.btn2:active {
+  background-color: rgb(13, 60, 108);
+}
+.btn3:active {
+  background-color: rgb(17, 164, 58);
+}
